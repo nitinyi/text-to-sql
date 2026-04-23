@@ -1,7 +1,7 @@
 import sqlite3
 import os
 import re
-import google.genai as genai
+import google.generativeai as genai
 from flask import Flask, request, render_template_string
 
 
